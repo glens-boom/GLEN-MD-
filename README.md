@@ -9,8 +9,8 @@
  <img alt="GLEN " height="300" src="https://files.catbox.moe/11sp6v.jpg".
 
 </h1> 
-<p align="center">⚠️<b>𝕃
-GLEN MD</b>, ⚠️ </p>
+<p align="center">🍒<b>
+𝙂𝙇𝙀𝙉 𝙈𝘿</b>, 🍒 </p>
 
 </p>
   <p align="center">
