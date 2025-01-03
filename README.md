@@ -1,16 +1,16 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+YESSER TECH;RELEASED+25.9.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+GLEN TECH;RELEASED+25.9.2024" alt="Typing SVG" /></a>
 
 
 
 </p>
  
- <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30">
- <img alt="YESSER " height="300" src="https://files.catbox.moe/9it5tk.jpeg".
+ <a href="https://whatsapp.com/channel/0029Vb1cR5eI7BeBbseye40S">
+ <img alt="GLEN " height="300" src="https://files.catbox.moe/11sp6v.jpg".
 
 </h1> 
 <p align="center">⚠️<b>𝕃
-YESSER MD</b>, ⚠️ </p>
+GLEN MD</b>, ⚠️ </p>
 
 </p>
   <p align="center">
@@ -26,18 +26,18 @@ YESSER MD</b>, ⚠️ </p>
 
          **HOW TO DEPLOY**
 1.👇 Star and Fork This Repo  
-[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yassin994/YESSER-MD/fork)  
+[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/glens-boom/GLEN-MD-/fork)  
 
 <br>
 
 2. (A)👇 Get Session ID Here for normal bot
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser.onrender.com) 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://glen-session-2.onrender.com) 
 
  
  2. (B) 👁️ get session id here for bottom bot
  
  
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://yesser-scanner-8309ae116f64.herokuapp.com/) 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://glen-session-2.onrender.com) 
 
  
  
@@ -52,7 +52,7 @@ YESSER MD</b>, ⚠️ </p>
 <br>
 
 4.👇 Deploy to Heroku If your have account
-[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-1)  
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/glens-boom/GLEN-MD-)  
 
 
 
@@ -94,7 +94,7 @@ YESSER MD</b>, ⚠️ </p>
    
 12. Now Deploy on replit
     <br>
-<a href='https://replit.com/github/Yassin994/YESSER-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
+<a href='https://replit.com/https://github.com/glens-boom/GLEN-MD-' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -114,22 +114,22 @@ YESSER MD</b>, ⚠️ </p>
 For any issues or to stay updated, use the options below:  
 
 👇 Follow My WhatsApp Channel 🤝 
-[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30)  
+[![Follow My WhatsApp Channel](https://img.shields.io/static/v1?label=Follow%20My%20WhatsApp%20Channel&message=follow&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=purple)](https://whatsapp.com/channel/0029Vb1cR5eI7BeBbseye40S)  
 
 <br>
 
 👇 Contact Me on WhatsApp  🤝
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255621995482)  
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=purple)](https://wa.me/254720254797)  
 
 <br>
 
 👇 Subscribe to My Channel on YouTube 🤝 
-[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yessertech?si=mkU9LFHXIGXy1Gbv)  
+[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@elijahombogo-yx1iv?si=-2RqhujYESxpWsEz)  
 
 <br>
 
 👇 Follow My GitHub 🤝
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yassin994)  
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/glens-boom)  
 
 
-## no love 💕 no stress
+## GLEN FOR EVER
