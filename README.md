@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR 🍒YOUR🍒 +SUPPORT🍒-DONT🍒; FORGET+TO+FORK🍒+MY🍒repo🍒;CREATED🍒+BY🍒+GLEN🍒 TECH🍒;RELEASED+3/1/2025" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT🍒; FORGET+TO+FORK🍒+MYrepo🍒;CREATED🍒+BY🍒+GLEN🍒 TECH🍒;RELEASED+3/1/2025" alt="Typing SVG" /></a>
 
 
 
